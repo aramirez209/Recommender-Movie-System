@@ -1,1 +1,4 @@
 # Recommender-Movie-System
+The abundance of entertainment content options, such as movies, in the digital age can frequently leave users overwhelmed and unsure of what to view next. Recommender systems play an essential role in addressing this issue by providing personalized suggestions based on the preferences and behaviors of users. To enhance user experience and engagement, these systems are extensively implemented on numerous platforms, including streaming services, e-commerce websites, and social media platforms.
+
+This report describes the design and construction of a MovieLens-based movie recommender system. The system’s main purpose is to let users enter a movie they like and get recommendations for others. The system makes user-item interaction-based predictions using collaborative filtering, a proven recommendation method. Collaborative filtering is ideal for tailored movie suggestions since it predicts user preferences from a group of users.
