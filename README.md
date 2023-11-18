@@ -4,11 +4,11 @@ This project contains code for a recommender system that employs a linear model 
 
 Usage:
 
-clone the repository (https://github.com/aramirez209/Recommender-Movie-System)
+  1. clone the repository (https://github.com/aramirez209/Recommender-Movie-System)
 
-install required dependencies pip install -r requirements.txt
+  2. install required dependencies pip install -r requirements.txt
 
-Run the R System
+  3. Run the R System
 
 Contributing: Analya Ramirez
 
