@@ -1,4 +1,18 @@
 # Recommender-Movie-System
-The abundance of entertainment content options, such as movies, in the digital age can frequently leave users overwhelmed and unsure of what to view next. Recommender systems play an essential role in addressing this issue by providing personalized suggestions based on the preferences and behaviors of users. To enhance user experience and engagement, these systems are extensively implemented on numerous platforms, including streaming services, e-commerce websites, and social media platforms.
+This project contains code for a recommender system that employs a linear model that accounts for user and movie biases. The project includes data preprocessing, model testing and training, computation of bias, and a thorough model performance assessment. The linear model and anticipated ratings are used to generate the suggestions, which offer consumers individualized movie selections
 
-This report describes the design and construction of a MovieLens-based movie recommender system. The system’s main purpose is to let users enter a movie they like and get recommendations for others. The system makes user-item interaction-based predictions using collaborative filtering, a proven recommendation method. Collaborative filtering is ideal for tailored movie suggestions since it predicts user preferences from a group of users.
+
+Usage:
+
+clone the repository (https://github.com/aramirez209/Recommender-Movie-System)
+
+install required dependencies pip install -r requirements.txt
+
+Run the R System
+
+Contributing: Analya Ramirez
+
+License: This project is licensed under the MIT License
+
+Credits: Special thanks to Kaggle.com for dataset Movie lens for this model.
+
